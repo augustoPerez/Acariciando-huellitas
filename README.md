@@ -1,2 +1,3 @@
 # Acariciando-huellitas
-Desarrollo de una aplicación móvil para Proyecto final
+
+Desarrollo de una aplicación móvil para Proyecto final para encontrar mascotas perdidas
